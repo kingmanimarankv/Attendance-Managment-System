@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttendanceSystem", "AttendanceSystem\AttendanceSystem.csproj", "{4F7FFA56-F4BF-4F50-A891-B5D52196CD1B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{151764AF-14C7-44A7-A912-7E02432D1A82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7FFA56-F4BF-4F50-A891-B5D52196CD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7FFA56-F4BF-4F50-A891-B5D52196CD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7FFA56-F4BF-4F50-A891-B5D52196CD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7FFA56-F4BF-4F50-A891-B5D52196CD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{151764AF-14C7-44A7-A912-7E02432D1A82}.Debug|Any CPU.ActiveCfg = Debug
+		{151764AF-14C7-44A7-A912-7E02432D1A82}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FA3C65E-CD21-4FF2-913B-8DB4C6F85430}
+	EndGlobalSection
+EndGlobal
